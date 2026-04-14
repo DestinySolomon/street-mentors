@@ -117,7 +117,7 @@ const App = () => {
         </div>
         <div className="relative z-10 w-full max-w-7xl mx-auto px-4 md:px-8 pt-44 pb-32 flex flex-col items-center text-center">
           <div><img alt="SMN Logo" className="w-20 h-20 rounded-full object-cover border-4 border-[#FFC107] mx-auto mb-6 shadow-lg" src="https://static.readdy.ai/image/8727c3250015317dea072b3ffdd3c259/6b29a6f0b19968069e7251af2d72f3c2.jpeg" /></div>
-          <div><span className="inline-block bg-[#FFC107]/20 border border-[#FFC107]/50 text-[#FFC107] text-xs font-semibold uppercase tracking-widest px-4 py-1.5 rounded-full mb-6">Non-Profit Organization • Uyo, Nigeria</span></div>
+          
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-extrabold text-white leading-tight mb-6 max-w-4xl">Empowering Nigeria's <span className="text-[#FFC107]">Vulnerable</span> Children</h1>
           <p className="text-lg md:text-xl text-white/85 max-w-2xl mb-10 leading-relaxed">Street Mentors Network transforms lives through care, education, and advocacy — protecting the rights of every child living in street situations across Nigeria.</p>
           <div className="flex flex-col sm:flex-row gap-4">
