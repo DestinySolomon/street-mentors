@@ -535,7 +535,7 @@ const App = () => {
                 Hope.
               </h2>
               <p className="text-gray-600 text-base leading-relaxed mb-4">
-                Street Mentors Network (SMN) is a women-owned non-profit
+                Street Mentors Network () is a women-owned non-profit
                 organization based in Uyo, Akwa Ibom State, Nigeria. We provide
                 holistic support to vulnerable children living in street
                 situations — offering them a path to dignity, education, and a
